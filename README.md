@@ -1,4 +1,4 @@
-```markdown
+
 # Data Science Portfolio - Ankit Kumar
 
 This portfolio is a compilation of all the Data Science, Machine Learning, Deep Learning, and Cryptography projects I have worked on for academic, self-learning, and research purposes. It also includes my achievements, skills, and certifications. The portfolio is updated regularly.
